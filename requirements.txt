@@ -1,0 +1,5 @@
+patchright>=1.50
+aiohttp>=3.9
+lxml>=5.0
+cssselect>=1.2
+tzdata
